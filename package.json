@@ -21,6 +21,8 @@
     "esri-extent": "^1.1.0",
     "esri-proj-codes": "^1.0.0",
     "express": "~4.12.3",
+    "koop-gist": "https://github.com/chelm/koop-gist/tarball/master",
+    "koop-github": "https://github.com/chelm/koop-github/tarball/master",
     "kue": "~0.8.12",
     "lodash": "~3.6.0",
     "mkdirp": "~0.5.0",
